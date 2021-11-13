@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">FindItem</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Start</string>
+    <string name="previous">Previous</string>
+
+    <string name="start_game_title_first_fragment">
+        On the top of your screen you will see the object word.
+        \n<br />
+        You have to find this objects in your room and take a photo
+        \n<br />
+        We give you a point, if you found object correctly
+        \n<br />
+        If you take a photo incorrect 3 times, you will lose the game
+        \n<br />
+        \n<br />
+        BE SURE YOU HAVE ENOUGH LIGHT IN YOUR ROOM.
+        \n<br />
+        Press the button to start</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="word_title">Word: %1$s</string>
+    <string name="score_title">Score: %1$s</string>
+</resources>
